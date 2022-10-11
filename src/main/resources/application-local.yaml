@@ -1,0 +1,2 @@
+# don't use 80 port localy because of an error ???
+server.port: 8888
