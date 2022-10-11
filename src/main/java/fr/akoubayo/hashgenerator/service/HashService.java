@@ -1,6 +1,4 @@
-package fr.akoubayo.hashGenerator.service;
-
-import org.springframework.stereotype.Service;
+package fr.akoubayo.hashgenerator.service;
 
 public interface HashService {
 

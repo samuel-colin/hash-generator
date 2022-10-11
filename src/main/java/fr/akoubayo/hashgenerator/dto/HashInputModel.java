@@ -1,4 +1,4 @@
-package fr.akoubayo.hashGenerator.dto;
+package fr.akoubayo.hashgenerator.dto;
 
 import lombok.Getter;
 import lombok.Setter;

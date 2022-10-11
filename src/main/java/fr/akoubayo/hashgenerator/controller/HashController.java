@@ -1,7 +1,7 @@
-package fr.akoubayo.hashGenerator.controller;
+package fr.akoubayo.hashgenerator.controller;
 
-import fr.akoubayo.hashGenerator.dto.HashInputModel;
-import fr.akoubayo.hashGenerator.service.HashService;
+import fr.akoubayo.hashgenerator.dto.HashInputModel;
+import fr.akoubayo.hashgenerator.service.HashService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 
