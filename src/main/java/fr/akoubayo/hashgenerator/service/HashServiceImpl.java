@@ -19,7 +19,7 @@ public class HashServiceImpl implements HashService {
             } else {
                 result = HashUtil.hashHMACSHA256(data, secretKey);
             }
-        } catch (NoSuchAlgorithmException | UnsupportedEncodingException e) {
+        } catch (NoSuchAlgorithmException e) {
             result = "";
         }
 
